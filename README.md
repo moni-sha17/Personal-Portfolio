@@ -13,6 +13,7 @@ To understand HTML structure, semantic tags, forms, and internal navigation.
 ## Website Sections
 - About Me
 - Skills
+- project
 - Contact
 
 ## How to Run the Project
