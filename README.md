@@ -1,26 +1,24 @@
-# Personal Portfolio Website
+# Interactive Portfolio Website
 
-This is a simple personal portfolio website created using HTML and CSS.
-
-## About the Project
-The website showcases basic information about me, my skills, projects, and contact details.  
-It is designed to be clean, beginner-friendly, and responsive.
+This is an interactive personal portfolio website built using HTML, CSS, and JavaScript.
 
 ## Features
-- Simple and clean layout
-- Responsive design for mobile screens
-- Navigation bar with hover effects
-- Contact form
-- Profile image section
+- Form validation with JavaScript
+- Interactive buttons and skill section
+- Dynamic footer year update
+- Clean and responsive layout
 
 ## Technologies Used
 - HTML
-- CSS (Flexbox & Media Queries)
+- CSS
+- JavaScript
 
-## Folder Structure
+## Project Structure
 - index.html
 - style.css
+- script.js
 - README.md
 
 ## Author
-Mochi
+Monisha
+
