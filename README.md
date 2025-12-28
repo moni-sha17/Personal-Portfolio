@@ -1,24 +1,26 @@
 # Personal Portfolio Website
 
-## Project Overview
-This project is a basic personal portfolio website created using HTML.
-It showcases my personal details, skills, and contact information.
+This is a simple personal portfolio website created using HTML and CSS.
 
-## Objective
-To understand HTML structure, semantic tags, forms, and internal navigation.
+## About the Project
+The website showcases basic information about me, my skills, projects, and contact details.  
+It is designed to be clean, beginner-friendly, and responsive.
+
+## Features
+- Simple and clean layout
+- Responsive design for mobile screens
+- Navigation bar with hover effects
+- Contact form
+- Profile image section
 
 ## Technologies Used
-- HTML5
+- HTML
+- CSS (Flexbox & Media Queries)
 
-## Website Sections
-- About Me
-- Skills
-- project
-- Contact
+## Folder Structure
+- index.html
+- style.css
+- README.md
 
-## How to Run the Project
-1. Download or clone the repository
-2. Open index.html in a web browser
-
-## Learning Outcome
-I learned HTML tags, attributes, semantic elements, and form creation.
+## Author
+Mochi
